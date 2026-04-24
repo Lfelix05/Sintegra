@@ -1,4 +1,4 @@
-# Sintegra-SP
+# Sintegra
 
 Pequeno utilitário criado para resolver um problema prático do dia a dia: identificar, de forma rápida, quais clientes de uma carteira são optantes pelo **Simples Nacional**.
 
